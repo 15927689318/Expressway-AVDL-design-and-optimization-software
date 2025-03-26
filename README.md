@@ -1,2 +1,2 @@
-# JonnyLiu
-Autonomous vehicle dedicated lane design and optimization aid software
+# Autonomous vehicle dedicated lane design and optimization aid software
+
