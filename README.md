@@ -1,2 +1,2 @@
-# Autonomous vehicle dedicated lane design and optimization aid software
+# Autonomous vehicle dedicated lane simulation and optimization software
 
